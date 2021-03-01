@@ -1,0 +1,4 @@
+#Sun Feb 28 18:30:02 CST 2021
+base.0=E\:\\Documents\\GoogleDocs\\Unicaes\\Ciclo VII\\AplicacionesMoviles\\Periodo 01\\Semana05\\DiceFlutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
